@@ -1,0 +1,21 @@
+p,a{
+    color:black
+    font-family:"Times New Roman", Times, serif;
+}
+
+
+header
+{
+padding: 40px
+ background-color: cadetblue;
+}
+
+body {
+    background-color:rgb(177, 172, 172);
+}
+
+fieldset{
+    width: 20%;
+    color: black;
+}
+
